@@ -2,10 +2,10 @@
 ## Winter Quarter 2021
 
 ## Homework 4
-## Due: Monday March 1st before midnight on GitHub Classroom
+## Due: Monday March 8th before midnight on GitHub Classroom
 
 
-__Question 1 (50%):__ Python skills Questions: As experts in R, you will need to develop your ability to look up the things you want to accomplish in Python while, wherever possible, leveraging what you already know about the relevant principles from R.
+__Question 1 (50%):__ Python Skills Questions: As experts in R, you will need to develop your ability to look up the things you want to accomplish in Python while, wherever possible, leveraging what you already know about the relevant principles from R.
 
   1. The first day of class was January 11th, 2021.  Write code that shows how many days have elapsed between then and now, where "now" is the date someone runs your code. (Hint: look up the _datetime_ standard Python library.)
   2. Write code that begins with a Python list, containing some number of integers or floats. 
