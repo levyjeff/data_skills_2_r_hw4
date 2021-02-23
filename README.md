@@ -9,14 +9,14 @@ __Question 1 (50%):__ Python skills Questions: As experts in R, you will need to
 
   1. The first day of class was January 11th, 2021.  Write code that shows how many days have elapsed between then and now, where "now" is the date someone runs your code. (Hint: look up the _datetime_ standard Python library.)
   2. Write code that begins with a Python list, containing some number of integers or floats. 
-    - Multiply each value by 2. (Hint: look up *list comprehensions*)
-    - Remove all odd numbers
-    - Print a random value from the resulting list. (Hint: look up the _random_ standard Python library.)
+     * Multiply each value by 2. (Hint: look up *list comprehensions*)
+     * Remove all odd numbers
+     * Print a random value from the resulting list. (Hint: look up the _random_ standard Python library.)
   3. Write a Python **function** that takes a string as an argument, then returns a modified string.  Your function should:
-    - First, test that the argument is a string, and that its length is at least 15 words. (Hint: look up the _assert_, _isinstance_, and _len_ standard Python functions, and the _split_ string method.)
-    - Second, split the string into five or less words per line. (Hint: look up the _join_ string method.)
-    - Third, make each line begin with a capital letter, with all other letters lowercase.
-    - Return the resulting string.  Display it with a _print_ function, which should show your line breaks at 5 words and the capitalization.
+     * First, test that the argument is a string, and that its length is at least 15 words. (Hint: look up the _assert_, _isinstance_, and _len_ standard Python functions, and the _split_ string method.)
+     * Second, split the string into five or less words per line. (Hint: look up the _join_ string method.)
+     * Third, make each line begin with a capital letter, with all other letters lowercase.
+     * Return the resulting string.  Display it with a _print_ function, which should show your line breaks at 5 words and the capitalization.
     
 __Question 2 (50%):__ Pandas: Use the two small datasets included in the repo to do the following:
 
